@@ -4,6 +4,8 @@
     "theme_name": "Cataro",
     "theme_version": "1.0.0-a",
     "theme_author": "Bytelum",
+    "theme_documentation_url": "https://help.shopify.com/manual/online-store/themes",
+    "theme_support_url": "https://support.shopify.com/"
   },
   {
     "name": "t:settings_schema.logo.name",
